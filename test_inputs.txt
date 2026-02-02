@@ -1,0 +1,22 @@
+# Test inputs for AI Judge
+
+rock
+paper
+scissors
+bomb
+I throw a stone
+I use paper to wrap
+Scissors cut everything
+Blast them with a bomb!
+explosion time
+dynamite!
+I attack with rock
+something sharp
+wrap it up
+hard as a rock
+destroy everything
+nuke them
+I don't know what to do
+let's play
+maybe paper?
+rock and paper both
